@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 5,
+  "versionName": "1.4.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Branded offline/retry screen and a splash screen on launch."
+  "notes": "Status bar no longer overlaps the header. In-app login shows email only."
 }
