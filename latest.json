@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13.0",
+  "versionCode": 15,
+  "versionName": "1.14.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Text size now matches the mobile website — the app honors your phone's system font-size setting (the default WebView ignored it, so app text looked smaller than the browser)."
+  "notes": "Bigger in-app text (~15%) to match the mobile website. If it is now too big or still too small, tell me and I will dial it in."
 }
