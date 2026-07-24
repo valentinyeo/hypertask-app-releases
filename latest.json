@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10.0",
+  "versionCode": 12,
+  "versionName": "1.11.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Fixes the double gap at the top of the header. Auto-installs now."
+  "notes": "Back button stays in the app (task → inbox) instead of exiting. Update check now runs while the app is open, not only on cold start."
 }
