@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
+  "versionCode": 8,
+  "versionName": "1.7.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Status bar no longer overlaps the header. Dictation mic now works (grant mic permission)."
+  "notes": "Comment field lifts above the keyboard instead of hiding behind it."
 }
