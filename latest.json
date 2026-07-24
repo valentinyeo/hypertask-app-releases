@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12.0",
+  "versionCode": 14,
+  "versionName": "1.13.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Real Hypertask app icon (was a placeholder). Back button stays in the app (task → inbox). Update checks now run while the app is open, not only on cold start."
+  "notes": "Text size now matches the mobile website — the app honors your phone's system font-size setting (the default WebView ignored it, so app text looked smaller than the browser)."
 }
