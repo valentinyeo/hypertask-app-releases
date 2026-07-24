@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
+  "versionCode": 7,
+  "versionName": "1.6.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Native Android push notifications. Grant the notification permission when asked."
+  "notes": "Status bar no longer overlaps the header. Dictation mic now works (grant mic permission)."
 }
