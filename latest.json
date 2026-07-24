@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
+  "versionCode": 6,
+  "versionName": "1.5.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Status bar no longer overlaps the header. In-app login shows email only."
+  "notes": "Native Android push notifications. Grant the notification permission when asked."
 }
