@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9.0",
+  "versionCode": 11,
+  "versionName": "1.10.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Update now installs automatically after download. Keyboard no longer covers the comment field."
+  "notes": "Fixes the double gap at the top of the header. Auto-installs now."
 }
