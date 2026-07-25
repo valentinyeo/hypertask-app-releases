@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14.0",
+  "versionCode": 16,
+  "versionName": "1.15.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Bigger in-app text (~15%) to match the mobile website. If it is now too big or still too small, tell me and I will dial it in."
+  "notes": "Nothing renders under the Android status bar anymore. The app now lays out below it on every screen, so headers, titles, modals and the AI chat stop clashing with the clock/battery and stop losing taps up there."
 }
