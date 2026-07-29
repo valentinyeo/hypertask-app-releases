@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15.0",
+  "versionCode": 17,
+  "versionName": "1.16.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Nothing renders under the Android status bar anymore. The app now lays out below it on every screen, so headers, titles, modals and the AI chat stop clashing with the clock/battery and stop losing taps up there."
+  "notes": "Fixes the status bar overlapping the app on Android 15/16 for real this time: the previous fix used APIs those Android versions ignore. Headers and the settings back button are fully visible and tappable again."
 }
