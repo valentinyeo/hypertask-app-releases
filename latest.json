@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16.0",
+  "versionCode": 18,
+  "versionName": "1.17.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Fixes the status bar overlapping the app on Android 15/16 for real this time: the previous fix used APIs those Android versions ignore. Headers and the settings back button are fully visible and tappable again."
+  "notes": "Edge-to-edge done right: the status bar now sits on the app's own background with no gap above or below it, and its icons follow your system theme. Fixes v1.16's giant empty band at the top of every screen."
 }
