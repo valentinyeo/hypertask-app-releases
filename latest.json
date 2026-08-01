@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17.0",
+  "versionCode": 19,
+  "versionName": "1.18.0",
   "url": "https://github.com/valentinyeo/hypertask-app-releases/releases/latest/download/hypertask.apk",
-  "notes": "Edge-to-edge done right: the status bar now sits on the app's own background with no gap above or below it, and its icons follow your system theme. Fixes v1.16's giant empty band at the top of every screen."
+  "notes": "Come back to the app and it reconnects itself. No more 'Web page not available' that only a restart could clear."
 }
